@@ -1,0 +1,1 @@
+- [Manifesto](manifesto.html)
