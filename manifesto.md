@@ -4,18 +4,18 @@ Ideas and principles that I frequently return to.
 
 __tl;dr: Life has no intrinsic meaning (but meaning is precious) so make some yourself.__
 
-- [Manifesto](#manifesto)
-  - [Do not become attached to any one idea](#do-not-become-attached-to-any-one-idea)
-  - [There are timeless truths](#there-are-timeless-truths)
-  - [Be nice](#be-nice)
-  - [Morality is *useful*, it is not *real*](#morality-is-useful-it-is-not-real)
-  - [Prioritise tasks that compound](#prioritise-tasks-that-compound)
-  - [Minimalism improves my life](#minimalism-improves-my-life)
-  - [Our bondage is self-imposed](#our-bondage-is-self-imposed)
-  - [Responsibility gives meaning](#responsibility-gives-meaning)
-  - [Fire in winter, sun in summer.](#fire-in-winter-sun-in-summer)
-  - [To read more effectively, write](#to-read-more-effectively-write)
-  - [Polished life](#polished-life)
+1. [Manifesto](#manifesto)
+   1. [Do not become attached to any one idea](#do-not-become-attached-to-any-one-idea)
+   2. [There are timeless truths](#there-are-timeless-truths)
+   3. [Be nice](#be-nice)
+   4. [Morality is *useful*, it is not *real*](#morality-is-useful-it-is-not-real)
+   5. [Prioritise tasks that compound](#prioritise-tasks-that-compound)
+   6. [Minimalism improves my life](#minimalism-improves-my-life)
+   7. [Our bondage is self-imposed](#our-bondage-is-self-imposed)
+   8. [Responsibility gives meaning](#responsibility-gives-meaning)
+   9. [Fire in winter, sun in summer.](#fire-in-winter-sun-in-summer)
+   10. [To read more effectively, write](#to-read-more-effectively-write)
+   11. [Polished life](#polished-life)
 
 ## Do not become attached to any one idea
 
@@ -182,6 +182,7 @@ Relevant twitter threads
 - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">- Reflections on my first few weeks using twitter correctly, and what I got wrong initially - THREAD</p>&mdash; ego (@egocv) <a href="https://twitter.com/egocv/status/1229868959274602496?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cynicism: never being wrong by never being interesting</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1259732439187877888?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I like to think of my tweets as adorable bees that I send out into the world.<br><br>Occasionally they return with nectar (replies). Some are very productive, others are sad failures. Some return immediately, others return months later.<br><br>Some fall in a cowpat and track it *eveywhere*</p>&mdash; ego (@egocv) <a href="https://twitter.com/egocv/status/1256680492923052039?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Creators consume in a really different way than consumers because they necessarily know what function each part is playing. More honest how to consume X guides, like the famed &quot;How to Read a Book&quot; book, would just be &quot;write a book&quot;. That&#39;s it, that&#39;s the whole of the path.</p>&mdash; Rival Voices ❁ (@nosilverv) <a href="https://twitter.com/nosilverv/status/1260545997320654848?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Polished life
 
