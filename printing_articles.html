@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Printing Articles</title>
+    <style>
+    </style>
+
+    <link rel="stylesheet" href="r/md.css">
+    <link rel="stylesheet" href="r/hl.css">
+    <link rel="stylesheet" type="text/css" href="r/egocv.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+    </style>
+    <style>
+        .task-list-item {
+            list-style-type: none;
+        }
+
+        .task-list-item-checkbox {
+            margin-left: -20px;
+            vertical-align: middle;
+        }
+    </style>
+
+
+
+</head>
+
+<body class="vscode-light">
+    <div id="header">
+        <img src="pics/happy_pot.png">
+        <a href="https://egocv.com">
+            <h1>ego</h1> (@egocv)
+        </a>
+        <a class="twitter" href="https://twitter.com/egocv"><img src="pics/twitter.png"></a>
+    </div>
+    <h1 id="printing-articles">Printing Articles</h1>
+    <ol>
+        <li><a href="#printing-articles">Printing Articles</a>
+            <ol>
+                <li><a href="#madness">Madness</a></li>
+                <li><a href="#method">Method</a></li>
+                <li><a href="#cost">Cost</a></li>
+            </ol>
+        </li>
+    </ol>
+    <h2 id="madness">Madness</h2>
+    <p>An article saved to instapaper is sure to be ignored, a pile of paper has a certain weight. It exists in the same
+        space as we do: printed writing wants to be picked up and flipped through, a passage catches your eye, you are
+        drawn in.</p>
+    <p>I have recently bought a new laser printer, so have started printing articles out, like an old man.</p>
+    <p>The cost and hassle of actually doing this is enough friction that I only print things I think are worth it,
+        adding a valuable layer of filter onto the <code>internet → instapaper → brain</code> pipeline. The printed
+        articles are getting read while the unprinted ones can continue to rot in instapaper.</p>
+    <p><em>(This is a similar idea to the recently launched <a
+                href="https://waldenpond.press/">https://waldenpond.press/</a> They are a paid service that prints
+            articles for you and sends you a monthly booklet.)</em></p>
+    <h2 id="method">Method</h2>
+    <p>For instapaper, the following stylesheet applied using Stylus improves the layout</p>
+    <pre><code class="language-css"><div>@<span class="hljs-keyword">media</span> print {
+    <span class="hljs-comment">/* hide link urls */</span>
+    <span class="hljs-selector-tag">a</span><span class="hljs-selector-attr">[href]</span><span class="hljs-selector-pseudo">:after</span> {
+        <span class="hljs-attribute">content</span>: <span class="hljs-string">""</span>;
+    }
+
+    <span class="hljs-selector-id">#story</span> <span class="hljs-selector-tag">a</span> {
+        <span class="hljs-attribute">text-decoration</span>: underline;
+    }
+    
+    <span class="hljs-comment">/* increase padding slightly */</span>
+    <span class="hljs-selector-id">#story</span> {
+        <span class="hljs-attribute">padding</span>: <span class="hljs-number">15px</span>;
+    }
+}
+</div></code></pre>
+    <p>This gives a comfortable line length and larger margins giving more space for notes. It also hides the URL, just
+        showing an underlined link title.</p>
+    <p>The article should be printed in booklet mode, both sided, it comes out something like this (this was before the
+        custom stylesheet was added, so you can see the horrible URL in the body)</p>
+    <p><img src="file:///c:\ego-cv.github.io\pics\printing-articles-slack.jpg" alt=""></p>
+    <p>The paper in folded in half, and stapled through the stack into a piece of cardboard, then the legs of the staple
+        folded over to 'bind' the booklet.</p>
+    <p>For PDFs, the adobe acrobat printing interface is better than the system one. &quot;fit to page&quot; in booklet
+        mode works well. Below is a test of the 60 page &quot;On grace and dignity&quot; (15 sheets of paper). The
+        booklet is quite thick at this point on standard weight paper. This method might not work well above 60 pages.
+        Any more and it would be better to try to find a professionally printed book version.</p>
+    <p><img src="file:///c:\ego-cv.github.io\pics\printing-articles-grace.jpg" alt=""></p>
+    <p>Staplers struggle with this many pages, so it has been bound with paperclips. I'm sure you could sew it
+        beautifully, but I don't need a new hobby right now, and I'm pretty sure book-binding would become a hobby if I
+        dared try it once.</p>
+    <h2 id="cost">Cost</h2>
+    <p>Some will see this as a waste of paper. My response is that I also use bottled water to make my coffee.</p>
+    <ul>
+        <li>Toner £53 for 2,600 pages (depending on the amount of print on the page)</li>
+        <li>Paper £20 for 2,500 sheets</li>
+        <li>Each printed page is around 2.92p</li>
+        <li>In booklet mode, we get 4 pages per sheet, so 1.3p per page</li>
+        <li>For example, a <em>22 page article uses 6 pieces of paper, and costs 29p to print</em>.</li>
+    </ul>
+
+</body>
+
+</html>

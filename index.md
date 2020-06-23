@@ -1,1 +1,2 @@
 - [Manifesto](manifesto.html)
+- [Printing Articles](printing_articles.html)
