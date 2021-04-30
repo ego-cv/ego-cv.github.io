@@ -3,3 +3,5 @@ permalink: /:title:output_ext
 
 twitter_username: egocv
 title: "@egocv"
+plugins:
+  - jekyll-feed
