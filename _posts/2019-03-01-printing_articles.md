@@ -1,9 +1,13 @@
-# Printing Articles
+---
+title: Printing Articles
+layout: post
+---
 
-1. [Printing Articles](#printing-articles)
-   1. [Madness](#madness)
-   2. [Method](#method)
-   3. [Cost](#cost)
+Printing articles to read.
+
+1. [Madness](#madness)
+2. [Method](#method)
+3. [Cost](#cost)
 
 ## Madness
 

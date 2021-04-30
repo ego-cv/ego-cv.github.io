@@ -1,0 +1,5 @@
+theme: minima
+permalink: /:title:output_ext
+
+twitter_username: egocv
+title: "@egocv"

@@ -1,12 +1,14 @@
-# The Magic of Marie Kondo — Homeostatis
-
-1. [The Magic of Marie Kondo — Homeostatis](#the-magic-of-marie-kondo--homeostatis)
-   1. [Fixing clutter the easy way](#fixing-clutter-the-easy-way)
-   2. [Environment and Character](#environment-and-character)
-   3. [Spark Joy](#spark-joy)
-   4. [Q/A](#qa)
+---
+title: The Magic of Marie Kondo — Homeostatis
+layout: post
+---
 
 In this series I will be reading 'The life changing magic of tidying' by Marie Kondo. I am using the Cathy Hirano translation (2014 edition).
+
+1. [Fixing clutter the easy way](#fixing-clutter-the-easy-way)
+2. [Environment and Character](#environment-and-character)
+3. [Spark Joy](#spark-joy)
+4. [Q/A](#qa)
 
 To ensure purity of interpretation, I have done no research on Kondo the person. I am also avoiding all her other works and any secondary sources. I refrained from re-reading past the introduction of the book so as to preserve my first (pure) impression of her work.
 

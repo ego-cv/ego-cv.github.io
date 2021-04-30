@@ -1,21 +1,23 @@
-# Manifesto
+---
+title: Manifesto
+layout: post
+---
 
 Ideas and principles that I frequently return to.
 
 __tl;dr: Life has no intrinsic meaning (but meaning is precious) so make some yourself.__
 
-1. [Manifesto](#manifesto)
-   1. [Do not become attached to any one idea](#do-not-become-attached-to-any-one-idea)
-   2. [There are timeless truths](#there-are-timeless-truths)
-   3. [Be nice](#be-nice)
-   4. [Morality is *useful*, it is not *real*](#morality-is-useful-it-is-not-real)
-   5. [Prioritise tasks that compound](#prioritise-tasks-that-compound)
-   6. [Minimalism improves my life](#minimalism-improves-my-life)
-   7. [Our bondage is self-imposed](#our-bondage-is-self-imposed)
-   8. [Responsibility gives meaning](#responsibility-gives-meaning)
-   9. [Fire in winter, sun in summer.](#fire-in-winter-sun-in-summer)
-   10. [To read more effectively, write](#to-read-more-effectively-write)
-   11. [Polished life](#polished-life)
+1. [Do not become attached to any one idea](#do-not-become-attached-to-any-one-idea)
+2. [There are timeless truths](#there-are-timeless-truths)
+3. [Be nice](#be-nice)
+4. [Morality is *useful*, it is not *real*](#morality-is-useful-it-is-not-real)
+5. [Prioritise tasks that compound](#prioritise-tasks-that-compound)
+6. [Minimalism improves my life](#minimalism-improves-my-life)
+7. [Our bondage is self-imposed](#our-bondage-is-self-imposed)
+8. [Responsibility gives meaning](#responsibility-gives-meaning)
+9. [Fire in winter, sun in summer.](#fire-in-winter-sun-in-summer)
+10. [To read more effectively, write](#to-read-more-effectively-write)
+11. [Polished life](#polished-life)
 
 ## Do not become attached to any one idea
 
