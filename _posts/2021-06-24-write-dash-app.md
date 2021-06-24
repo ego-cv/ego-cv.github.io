@@ -5,7 +5,7 @@ layout: post
 
 **Destroy writers block! Spew out that email you don't want to write! Complete your epic fantasy novel!**
 
-*<center style="font-size: 20px">USE IT NOW! [https://egocv.com/write-dash/](https://egocv.com/write-dash/)</center>*
+*<center style="font-size: 20px">USE IT NOW! <a href="https://egocv.com/write-dash/">https://egocv.com/write-dash/</a></center>*
 
 - Write for 5 minutes without stopping, or your text disappears!
 - Pause for 2 minutes for editing
