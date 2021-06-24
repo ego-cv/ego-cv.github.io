@@ -5,7 +5,7 @@ layout: post
 
 **Destroy writers block! Spew out that email you don't want to write! Complete your epic fantasy novel!**
 
-*<center>TRY IT NOW! https://egocv.com/write-dash/</center>*
+*<center style="font-size: 20px">USE IT NOW! [https://egocv.com/write-dash/](https://egocv.com/write-dash/)</center>*
 
 - Write for 5 minutes without stopping, or your text disappears!
 - Pause for 2 minutes for editing
@@ -15,6 +15,8 @@ Packed full of features:
 - Dark mode
 - Rich-text support
 - Word counter
+
+*This is not meant to be a full text-editor, you would not write a novel inside the app, instead you might copy a prompt for yourself into the app, write for a few sessions, then copy the text back out. It is for getting yourself over that initial hump when you begin a writing session. It WILL delete your text, you will NOT be able to get it back!*
 
 ![](pics/write-dash-v0.1.png)
 
