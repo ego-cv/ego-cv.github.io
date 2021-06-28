@@ -22,6 +22,12 @@ Packed full of features:
 
 ## Release Notes
 
+### v0.2 Beta
+
+- Auto-focus on load
+- Change default session length
+- Remove final edit session (default is now: Start → Sprint 3m → Edit 1m → Sprint 3m → End)
+
 ### v0.1 Beta
 
 *Initial release - many niggles, basic features only*
