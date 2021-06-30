@@ -22,6 +22,12 @@ Packed full of features:
 
 ## Release Notes
 
+### v0.3 Beta
+
+- Add settings for session length, number, deletion time
+- Improve mobile layout
+- Tweaks and fixes
+
 ### v0.2 Beta
 
 - Auto-focus on load
