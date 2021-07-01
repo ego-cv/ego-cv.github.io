@@ -22,6 +22,12 @@ Packed full of features:
 
 ## Release Notes
 
+### v0.4 Beta
+
+- Add focus mode (blur all but current paragraph)
+- Save settings and content in local storage between refreshes
+- Tweaks and fixes
+
 ### v0.3 Beta
 
 - Add settings for session length, number, deletion time
