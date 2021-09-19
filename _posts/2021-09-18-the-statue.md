@@ -79,6 +79,7 @@ The statue was eventually installed in the Musée d'Orsay. As outlined in the ar
 Art and action thus combined, our love would never die.<br/>
 Impermanence made permanent, through our sacrifice.
 </center>
+
 ---
 
 
