@@ -21,7 +21,7 @@ He looked angrily at the marble sculpture in the corner of the room, the Madonna
 
 “I thought I had succeeded with the Madonna. The likeness to Geneviève is perfect. I am sure I saw it for a second, the spark of life finally captured in a piece of marble, but as soon as I stepped back to look at the piece as a whole it disappeared, faded out and left yet another cold block of stone.
 
-“What of music?” I asked. “When you write music on a piece of paper, the msuic is captured, is it not, and comes back to life when the musician reads and performs what you recorded?”
+“What of music?” I asked. “When you write music on a piece of paper, the music is captured, is it not, and comes back to life when the musician reads and performs what you recorded?”
 
 “The musician, in reading and performing the music, creates a new piece of art, art which dies the second the sound fades from the room. The written music is a shadow of the living music.”
 
