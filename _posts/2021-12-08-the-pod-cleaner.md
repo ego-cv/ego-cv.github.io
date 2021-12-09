@@ -1,0 +1,24 @@
+---
+title: "Short Story: The Pod Cleaner"
+layout: post
+---
+
+"Yeah, I'm a pod cleaner. We have a back room where we wait for the clients to finish up. Stiffs, we call them. Then we come in through a hidden door and reset the room. Three of us, two guys who handle the body, stripping the clothes, feeding it into the incinerator. Then there's me, the cleaner. I'm meant to finish within ten minutes, so we keep turnover high. There's always a bunch of people in the waiting room. We're not meant to see them, for 'mental health reasons', but I always sneak a peak when I come back from my lunch break. All sorts. Young and old, sick and healthy. They all have the same look on their face, though. They're not running from nothing, they're not trying to get away from some terrible, acute pain. They're resigned, is all. They've stopped running. They're tired and they can't be bothered anymore, that's what they all look like, and they're always reading a magazine. Can you imagine? They're bored. They don't look at their phones, that's done, that's over, but they're bored still, so they grab a magazine from the squat table in the centre of the waiting room and they look at last year's best designed beach houses, and what the stars wore to Cannes and shit. In the adverts they always show that same old man, grey hair, cancer. He lies down and closes his eyes, a smile on his face. "An end to the pain", it says, and he drifts off to the soothing music. They don't show my world. They don't show these people.
+
+Anyway, the guys chuck a sheet over the body and carry it out, one at the arms, one at the feet, shuffle across the room with the stiff slung between them. There's a weight limit, did you know? If you're too heavy reception is supposed to send you home. Two guys aren't meant to lift anything over 400lbs, I think, but they always say that the machine isn't able to handle it, they don't want people to think of their dead body. Don't want them to think of themselves as rubbish to be thrown out. They say that the drugs aren't strong enough, or something. That happened once, too. Something went wrong and the guy wasn't all gone when we opened the pod. Was jerking around in there. Spittle flying everywhere. We closed it up and called the ambulance, but they took their time. He was dead by the time they got here, and we just took him away like normal.
+
+So yeah, I'm meant to finish in 10 minutes, but some people get a bit funny from all the drugs, and they squirt. They didn't think of us cleaners when they made those chairs, oh no. They were thinking of their adverts, comfortable white leather seats, soft and welcoming. Clean but not too clinical, you know? It wipes down alright, but there's always chunks that get stuck down in the seams, and I have to get my toothbrush down in there and scrub it all out. It stinks otherwise, if you miss a spot, and the night crew complain, and I get my pay docked.
+
+It was the first stiff of the day. Night crew had just finished up and they'd left this one for us. "Left us a good one, at least?" I called after them. "Oh yeah, real good, real ripe" they said. It wasn't all that bad, though. Quick job, five minutes. Was just closing the lid to start the self-sanitation program when I saw the photo. We bag up all personal affairs, send them off to the family contact if the stiff left one. Often they don't, and we burn it. Or some of the guys keep it, and say we burnt it. Get some good stuff sometimes. Not me though. I never. This was just a photo, though. I'd usually just chuck it right in the bag, avoid seeing the stiff's face. Don't want to think of them as people, really. They aren't people anymore, right? Just rubbish. And something about the photo, it just stuck with me, and I slipped it in my pocket. No harm, no harm to anyone.
+
+I looked at it when I got home. It was a photo of a dog. One of those little ones, fluffy as anything but just bones and teeth when you pick them up. It had a bow on, and on the picture someone had wrote "Princess", in red pen, in the top-left corner. I turned it over, and there was an address. Nice area, near the river. And like I don't even like dogs, but I got the idea in my head, right away, when I saw that photo — I felt like he had left the dog at home and offed himself. And that's not fair on the dog, right? So that's why I'm here. I'm here to feed his dog."
+
+Sergeant Jones looked up from his notes. "You're here to feed the dog?".
+
+The cleaner scratched his nose, not meeting his eye. "Yeah, yeah. Princess. He didn't leave a family contact, so I was worried, yeah."
+
+"You climbed up the fire-escape, four stories, and broke the window, and climbed inside, and tried to open the safe, and ransacked the house—"
+
+"I was looking for dog food, yeah"
+
+"— to feed the dog?"
